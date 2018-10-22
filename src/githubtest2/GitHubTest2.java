@@ -17,6 +17,8 @@ public class GitHubTest2 {
     public static void main(String[] args) {
         // TODO code application logic here
         Cottrell();
+        DontLetStrangersIn();
+        
     }
     
      public static void Cottrell(){
@@ -27,5 +29,15 @@ public class GitHubTest2 {
      
      public static void CottrellWasHere(){
          System.out.println("Cottrell was here");
+     }
+     public static void DontLetStrangersIn()
+     {
+         System.out.println(" *   *    ******)  ");
+         System.out.println(" *   *   *     *   ");
+         System.out.println(" *****       **    ");
+         System.out.println("     *      **     ");
+         System.out.println("     *     *     *");
+         System.out.println("     *   (******* ");
+         System.out.println("Willem was here");
      }
 }
